@@ -1,0 +1,21 @@
+{
+    "name": "mycomposer/test",
+    "description": "mycomposer",
+    "type": "library",
+    "require": {
+        "php": ">=5.6.0"
+    },
+    "license": "Apache",
+    "authors": [
+        {
+            "name": "xioluo",
+            "email": "1370177585@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload":{
+        "psr-4":{
+            "index\\":"src/index"
+        }
+    }
+}
