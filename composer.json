@@ -1,6 +1,6 @@
 {
     "name": "mycomposer/test",
-    "description": "mycomposer",
+    "description": "mycomposer99",
     "type": "library",
     "require": {
         "php": ">=5.6.0"
